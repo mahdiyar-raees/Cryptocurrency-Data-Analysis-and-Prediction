@@ -12,4 +12,4 @@ This section is dedicated to predictive modeling, where we leverage machine lear
 
 
 ### Authored By
-This project was authored by [Nazanin Zarei](https://github.com/nazaninzareirad), [Mahdiyar Raeesolmhadessin](https://github.com/mahdiyar-raees), [Sajjad Mohammadi](https://github.com/SajjadMohammadi2020), [Mehrdad Salehi]
+This project was authored by  [Mahdiyar Raeesolmhadessin](https://github.com/mahdiyar-raees),[Nazanin Zarei](https://github.com/nazaninzareirad), [Sajjad Mohammadi](https://github.com/SajjadMohammadi2020), [Mehrdad Salehi]
